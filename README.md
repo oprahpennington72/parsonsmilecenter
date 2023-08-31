@@ -1,2 +1,9 @@
-# parsonsmilecenter
-YOUR JOURNEY FOR A BETTER SMILE STARTS HERE.
+- Parsons Smile Center
+- YOUR JOURNEY FOR A BETTER SMILE STARTS HERE.
+- Parsons Smile Center is a premier dental practice located in Flushing, Queens. Led by Dr. Salha, a highly experienced dentist with over 30 years of experience in the field, we specialize in cosmetic dentistry and dental implants. At Parsons Smile Center, we believe that every patient deserves personalized care that addresses their unique dental needs. Our Flushing dental team is dedicated to making every visit as comfortable and stress-free as possible. We use state-of-the-art equipment and advanced techniques to ensure the best possible outcomes for our patients. Whether you need a routine cleaning or a complete smile makeover, we have the expertise to deliver outstanding results. Contact us today to schedule an appointment in Flushing
+- Manhattan: (917)-932-2377
+- Flushing: (718)-957-8773
+- https://parsonssmilecenter.com/
+- info@salhadentistry.com
+- 26-15 Parsons Blvd., Flushing, NY 11354
+- 133 East 58th Street, Suite 806, New York, NY 10022
